@@ -1,6 +1,7 @@
 node_module
 .vscode
 /.husky
+dist
 
 # Version Control
 CHANGELOG.md

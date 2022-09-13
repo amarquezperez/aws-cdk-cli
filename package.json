@@ -12,7 +12,9 @@
     "format:check": "prettier --check .",
     "format:write": "prettier --write .",
     "ncu": "ncu",
-    "release": "release-it"
+    "release": "release-it",
+    "tsc": "tsc --build",
+    "tsc:watch": "tsc -w"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
