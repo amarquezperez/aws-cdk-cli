@@ -2,6 +2,7 @@ node_module
 .vscode
 /.husky
 dist
+coverage
 
 # Version Control
 CHANGELOG.md
